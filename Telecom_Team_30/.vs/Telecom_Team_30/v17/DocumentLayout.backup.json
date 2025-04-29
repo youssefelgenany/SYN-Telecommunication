@@ -1,0 +1,683 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\customerlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:customerlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\customerhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:customerhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|c:\\youssef\\gam3a\\projects\\semester 5\\database 1\\telecom_team_30\\telecom_team_30\\accpay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:accpay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\customerhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:customerhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\telecommunication.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:telecommunication.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\telecommunication.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:telecommunication.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\ticketaccountcustomer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:ticketaccountcustomer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\redeemvo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:redeemvo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\usageacm.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:usageacm.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\usageacm.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:usageacm.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\remainingamount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:remainingamount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\extraamount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:extraamount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\totalsms.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:totalsms.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\allbenefits.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:allbenefits.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\cashbacknat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:cashbacknat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\unsubscribed.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:unsubscribed.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\recharge.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:recharge.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\successfulpayments.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:successfulpayments.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\subscribedpast5.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:subscribedpast5.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\allshops.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:allshops.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\unsubscribed.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:unsubscribed.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\successfulpayments.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:successfulpayments.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\renewsubscrip.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:renewsubscrip.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\renewsubscrip.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:renewsubscrip.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\cashbackcustomer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:cashbackcustomer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\cashbackcustomer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:cashbackcustomer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\subscribedpast5.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:subscribedpast5.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\allshops.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:allshops.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\customerlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:customerlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\cashbackwallet.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:cashbackwallet.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\allwallets.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:allwallets.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\allaccountsplans.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:allaccountsplans.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\physicalvouchers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:physicalvouchers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\resolvedtickets.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:resolvedtickets.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\allcustomeractiveacc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:allcustomeractiveacc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\benefitsremove.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:benefitsremove.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\accountsusage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:accountsusage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\accountssub.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:accountssub.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\cashbackwallet.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:cashbackwallet.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 271,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerHome.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\CustomerHome.aspx",
+              "RelativeDocumentMoniker": "CustomerHome.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\CustomerHome.aspx",
+              "RelativeToolTip": "CustomerHome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-14T18:29:26.378Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerHome.aspx.cs",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\CustomerHome.aspx.cs",
+              "RelativeDocumentMoniker": "CustomerHome.aspx.cs",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\CustomerHome.aspx.cs",
+              "RelativeToolTip": "CustomerHome.aspx.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAqwBYBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:33:32.516Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerLogin.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\CustomerLogin.aspx",
+              "RelativeDocumentMoniker": "CustomerLogin.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\CustomerLogin.aspx",
+              "RelativeToolTip": "CustomerLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-14T18:09:46.836Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccPay.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\AccPay.aspx",
+              "RelativeDocumentMoniker": "AccPay.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\AccPay.aspx",
+              "RelativeToolTip": "AccPay.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-27T01:53:43.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\HomePage.aspx",
+              "RelativeDocumentMoniker": "HomePage.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\HomePage.aspx",
+              "RelativeToolTip": "HomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-04T14:35:48.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomePage.aspx.cs",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\HomePage.aspx.cs",
+              "RelativeDocumentMoniker": "HomePage.aspx.cs",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\HomePage.aspx.cs",
+              "RelativeToolTip": "HomePage.aspx.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAgwOwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:35:53.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Telecommunication.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\Telecommunication.aspx",
+              "RelativeDocumentMoniker": "Telecommunication.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\Telecommunication.aspx",
+              "RelativeToolTip": "Telecommunication.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-14T17:51:47.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Telecommunication.aspx.cs",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\Telecommunication.aspx.cs",
+              "RelativeDocumentMoniker": "Telecommunication.aspx.cs",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\Telecommunication.aspx.cs",
+              "RelativeToolTip": "Telecommunication.aspx.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:24:18.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TicketAccountCustomer.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\TicketAccountCustomer.aspx",
+              "RelativeDocumentMoniker": "TicketAccountCustomer.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\TicketAccountCustomer.aspx",
+              "RelativeToolTip": "TicketAccountCustomer.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-27T03:05:30.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RemainingAmount.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\RemainingAmount.aspx",
+              "RelativeDocumentMoniker": "RemainingAmount.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\RemainingAmount.aspx",
+              "RelativeToolTip": "RemainingAmount.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-27T03:04:24.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RedeemVo.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\RedeemVo.aspx",
+              "RelativeDocumentMoniker": "RedeemVo.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\RedeemVo.aspx",
+              "RelativeToolTip": "RedeemVo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-27T03:02:23.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsageAcM.aspx.cs",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\UsageAcM.aspx.cs",
+              "RelativeDocumentMoniker": "UsageAcM.aspx.cs",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\UsageAcM.aspx.cs",
+              "RelativeToolTip": "UsageAcM.aspx.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:21:43.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsageAcM.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\UsageAcM.aspx",
+              "RelativeDocumentMoniker": "UsageAcM.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\UsageAcM.aspx",
+              "RelativeToolTip": "UsageAcM.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-27T03:10:25.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExtraAmount.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\ExtraAmount.aspx",
+              "RelativeDocumentMoniker": "ExtraAmount.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\ExtraAmount.aspx",
+              "RelativeToolTip": "ExtraAmount.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-27T03:03:21.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TotalSMS.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\TotalSMS.aspx",
+              "RelativeDocumentMoniker": "TotalSMS.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\TotalSMS.aspx",
+              "RelativeToolTip": "TotalSMS.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-27T03:09:37.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AllBenefits.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\AllBenefits.aspx",
+              "RelativeDocumentMoniker": "AllBenefits.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\AllBenefits.aspx",
+              "RelativeToolTip": "AllBenefits.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-27T03:08:18.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CashbackNat.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\CashbackNat.aspx",
+              "RelativeDocumentMoniker": "CashbackNat.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\CashbackNat.aspx",
+              "RelativeToolTip": "CashbackNat.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-27T03:07:24.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Unsubscribed.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\Unsubscribed.aspx",
+              "RelativeDocumentMoniker": "Unsubscribed.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\Unsubscribed.aspx",
+              "RelativeToolTip": "Unsubscribed.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-27T03:06:21.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Recharge.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\Recharge.aspx",
+              "RelativeDocumentMoniker": "Recharge.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\Recharge.aspx",
+              "RelativeToolTip": "Recharge.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-27T03:01:16.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "successfulPayments.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\successfulPayments.aspx",
+              "RelativeDocumentMoniker": "successfulPayments.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\successfulPayments.aspx",
+              "RelativeToolTip": "successfulPayments.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-27T02:59:58.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Subscribedpast5.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\Subscribedpast5.aspx",
+              "RelativeDocumentMoniker": "Subscribedpast5.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\Subscribedpast5.aspx",
+              "RelativeToolTip": "Subscribedpast5.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-27T02:37:05.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "allshops.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\allshops.aspx",
+              "RelativeDocumentMoniker": "allshops.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\allshops.aspx",
+              "RelativeToolTip": "allshops.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-27T02:35:36.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Unsubscribed.aspx.cs",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\Unsubscribed.aspx.cs",
+              "RelativeDocumentMoniker": "Unsubscribed.aspx.cs",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\Unsubscribed.aspx.cs",
+              "RelativeToolTip": "Unsubscribed.aspx.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAgwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:06:38.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "successfulPayments.aspx.cs",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\successfulPayments.aspx.cs",
+              "RelativeDocumentMoniker": "successfulPayments.aspx.cs",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\successfulPayments.aspx.cs",
+              "RelativeToolTip": "successfulPayments.aspx.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:00:22.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CashbackCustomer.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\CashbackCustomer.aspx",
+              "RelativeDocumentMoniker": "CashbackCustomer.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\CashbackCustomer.aspx",
+              "RelativeToolTip": "CashbackCustomer.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-27T02:54:14.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RenewSubscrip.aspx.cs",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\RenewSubscrip.aspx.cs",
+              "RelativeDocumentMoniker": "RenewSubscrip.aspx.cs",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\RenewSubscrip.aspx.cs",
+              "RelativeToolTip": "RenewSubscrip.aspx.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwDsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:43:18.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RenewSubscrip.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\RenewSubscrip.aspx",
+              "RelativeDocumentMoniker": "RenewSubscrip.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\RenewSubscrip.aspx",
+              "RelativeToolTip": "RenewSubscrip.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-27T02:46:20.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CashbackCustomer.aspx.cs",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\CashbackCustomer.aspx.cs",
+              "RelativeDocumentMoniker": "CashbackCustomer.aspx.cs",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\CashbackCustomer.aspx.cs",
+              "RelativeToolTip": "CashbackCustomer.aspx.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:47:20.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Subscribedpast5.aspx.cs",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\Subscribedpast5.aspx.cs",
+              "RelativeDocumentMoniker": "Subscribedpast5.aspx.cs",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\Subscribedpast5.aspx.cs",
+              "RelativeToolTip": "Subscribedpast5.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA6wBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:37:24.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "allshops.aspx.cs",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\allshops.aspx.cs",
+              "RelativeDocumentMoniker": "allshops.aspx.cs",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\allshops.aspx.cs",
+              "RelativeToolTip": "allshops.aspx.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:36:30.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CustomerLogin.aspx.cs",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\CustomerLogin.aspx.cs",
+              "RelativeDocumentMoniker": "CustomerLogin.aspx.cs",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\CustomerLogin.aspx.cs",
+              "RelativeToolTip": "CustomerLogin.aspx.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:13:56.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AllWallets.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\AllWallets.aspx",
+              "RelativeDocumentMoniker": "AllWallets.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\AllWallets.aspx",
+              "RelativeToolTip": "AllWallets.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-14T18:48:56.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Allaccountsplans.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\Allaccountsplans.aspx",
+              "RelativeDocumentMoniker": "Allaccountsplans.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\Allaccountsplans.aspx",
+              "RelativeToolTip": "Allaccountsplans.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-14T18:46:37.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PhysicalVouchers.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\PhysicalVouchers.aspx",
+              "RelativeDocumentMoniker": "PhysicalVouchers.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\PhysicalVouchers.aspx",
+              "RelativeToolTip": "PhysicalVouchers.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-14T18:45:22.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ResolvedTickets.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\ResolvedTickets.aspx",
+              "RelativeDocumentMoniker": "ResolvedTickets.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\ResolvedTickets.aspx",
+              "RelativeToolTip": "ResolvedTickets.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-14T18:55:01.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CashBackWallet.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\CashBackWallet.aspx",
+              "RelativeDocumentMoniker": "CashBackWallet.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\CashBackWallet.aspx",
+              "RelativeToolTip": "CashBackWallet.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-27T02:18:23.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AllCustomerActiveAcc.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\AllCustomerActiveAcc.aspx",
+              "RelativeDocumentMoniker": "AllCustomerActiveAcc.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\AllCustomerActiveAcc.aspx",
+              "RelativeToolTip": "AllCustomerActiveAcc.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-14T18:42:23.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BenefitsRemove.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\BenefitsRemove.aspx",
+              "RelativeDocumentMoniker": "BenefitsRemove.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\BenefitsRemove.aspx",
+              "RelativeToolTip": "BenefitsRemove.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-04T17:27:23.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AccountsUsage.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\AccountsUsage.aspx",
+              "RelativeDocumentMoniker": "AccountsUsage.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\AccountsUsage.aspx",
+              "RelativeToolTip": "AccountsUsage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-27T02:01:35.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AccountsSub.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\AccountsSub.aspx",
+              "RelativeDocumentMoniker": "AccountsSub.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\AccountsSub.aspx",
+              "RelativeToolTip": "AccountsSub.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-27T02:00:36.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CashBackWallet.aspx.cs",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\CashBackWallet.aspx.cs",
+              "RelativeDocumentMoniker": "CashBackWallet.aspx.cs",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\CashBackWallet.aspx.cs",
+              "RelativeToolTip": "CashBackWallet.aspx.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:51:52.046Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|c:\\youssef\\gam3a\\projects\\semester 5\\database 1\\telecom_team_30\\telecom_team_30\\telecommunication.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:telecommunication.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\customerlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:customerlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\customerhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB6D8B2D-FC13-4F79-B277-2BF8F83A4151}|Telecom_Team_30.csproj|solutionrelative:customerhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 271,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerHome.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\CustomerHome.aspx",
+              "RelativeDocumentMoniker": "CustomerHome.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\CustomerHome.aspx",
+              "RelativeToolTip": "CustomerHome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-14T18:29:26.378Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerLogin.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\CustomerLogin.aspx",
+              "RelativeDocumentMoniker": "CustomerLogin.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\CustomerLogin.aspx",
+              "RelativeToolTip": "CustomerLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-14T18:09:46.836Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\HomePage.aspx",
+              "RelativeDocumentMoniker": "HomePage.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\HomePage.aspx",
+              "RelativeToolTip": "HomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-04T14:35:48.641Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Telecommunication.aspx",
+              "DocumentMoniker": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\Telecommunication.aspx",
+              "RelativeDocumentMoniker": "Telecommunication.aspx",
+              "ToolTip": "C:\\Youssef\\Gam3a\\Projects\\Semester 5\\Database 1\\Telecom_Team_30\\Telecom_Team_30\\Telecommunication.aspx",
+              "RelativeToolTip": "Telecommunication.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-29T22:40:11.327Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
