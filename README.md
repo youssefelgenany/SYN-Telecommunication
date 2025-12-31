@@ -13,7 +13,7 @@ SYN Telecommunication was developed to provide a comprehensive telecom billing a
 - Session management could be enhanced for better security
 - Error handling in some pages could be more robust
 - The application currently uses hardcoded admin credentials (should be moved to a secure configuration)
-- No automated unit tests are currently implemented (testing is done manually via Postman and SQL execution)
+- No automated unit tests are currently implemented (testing is done manually via SQL execution)
 
 ## Code Style
 The project follows consistent naming conventions throughout:
@@ -32,32 +32,32 @@ Code follows standard C# conventions with proper indentation, using statements a
 
 ## Screenshots
 
-### 1. Home Page / Landing Page
+### 1. Login Page
 ![Home Page](screenshots/home-page.png)
 *Landing page with options to login as customer or administrator*
 
-### 2. Customer Login Page
+### 2. Admin Login Page
 ![Customer Login](screenshots/customer-login.png)
 *Customer authentication interface*
 
 ### 3. Customer Dashboard
-![Customer Dashboard](screenshots/customer-dashboard.png)
+![Customer Dashboard](screenshots/customer-dashboard1.png)
 *Customer home page showing service plans and navigation options*
 
-### 4. Admin Dashboard
+### 4. Customer Dashboard (continue)
+![Customer Dashboard](screenshots/customer-dashboard2.png)
+*Customer home page showing service plans and navigation options*
+
+### 5. Admin Dashboard
 ![Admin Dashboard](screenshots/admin-dashboard.png)
 *Administrator dashboard with quick access to all management functions*
 
-### 5. Payment Processing
-![Payment Processing](screenshots/payment-processing.png)
-*Payment and recharge interface for customers*
+### 6. Admin Dashboard (continue)
+![Admin Dashboard](screenshots/admin-dashboard1.png)
+*Administrator dashboard with quick access to all management functions*
 
-### 6. Voucher Redemption
-![Voucher Redemption](screenshots/voucher-redemption.png)
-*Voucher redemption interface showing available vouchers*
-
-### 7. Usage History
-![Usage History](screenshots/usage-history.png)
+### 7. Admin all accounts view
+![Usage History](screenshots/all-accounts.png)
 *Customer usage tracking and history display*
 
 ## Tech/Framework Used
