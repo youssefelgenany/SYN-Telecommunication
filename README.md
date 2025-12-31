@@ -34,31 +34,24 @@ Code follows standard C# conventions with proper indentation, using statements a
 
 ### 1. Login Page
 ![Home Page](screenshots/home-page.png)
-*Landing page with options to login as customer or administrator*
 
 ### 2. Admin Login Page
 ![Customer Login](screenshots/customer-login.png)
-*Customer authentication interface*
 
 ### 3. Customer Dashboard
 ![Customer Dashboard](screenshots/customer-dashboard1.png)
-*Customer home page showing service plans and navigation options*
 
 ### 4. Customer Dashboard (continue)
 ![Customer Dashboard](screenshots/customer-dashboard2.png)
-*Customer home page showing service plans and navigation options*
 
 ### 5. Admin Dashboard
 ![Admin Dashboard](screenshots/admin-dashboard.png)
-*Administrator dashboard with quick access to all management functions*
 
 ### 6. Admin Dashboard (continue)
 ![Admin Dashboard](screenshots/admin-dashboard1.png)
-*Administrator dashboard with quick access to all management functions*
 
 ### 7. Admin all accounts view
 ![Usage History](screenshots/all-accounts.png)
-*Customer usage tracking and history display*
 
 ## Tech/Framework Used
 - **Backend Framework**: ASP.NET Web Forms (.NET Framework 4.8)
